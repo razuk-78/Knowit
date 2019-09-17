@@ -1,0 +1,7 @@
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\bin\Debug\Behaveioral.exe.config
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\bin\Debug\Behaveioral.exe
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\bin\Debug\Behaveioral.pdb
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\obj\Debug\Behaveioral.csprojAssemblyReference.cache
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\obj\Debug\Behaveioral.csproj.CoreCompileInputs.cache
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\obj\Debug\Behaveioral.exe
+C:\Users\razeli\source\repos\DesignPattern\Behaveioral\obj\Debug\Behaveioral.pdb
